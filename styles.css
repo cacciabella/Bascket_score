@@ -1,0 +1,205 @@
+
+body{
+    background-color: gray;
+}
+
+.container{
+    position: absolute;
+    top: 170px;
+    left: 450px;
+    width: 530px;
+    height: 392px;
+    background-color: black;
+    border-radius: 90px;
+    box-shadow: 5px 5px 5px 5px rgb(114, 101, 101);
+}
+
+.score{
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    width: 140px;
+    height: 142px;
+    border-radius: 40px;
+    background-color: rgb(218, 202, 202);
+}
+
+.score1{
+    position: absolute;
+    top: 80px;
+    left: 360px;
+    width: 140px;
+    height: 142px;
+    border-radius: 40px;
+    background-color: rgb(218, 202, 202);
+}
+
+.point{
+    position: absolute;
+    top: 300px;
+    left: 30px;
+    width: 56px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: rgb(218, 202, 202);
+}
+
+.point1{
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    width: 56px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: rgb(218, 202, 202);
+}
+
+.point2{
+    position: absolute;
+    top: 300px;
+    left: 170px;
+    width: 56px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: rgb(218, 202, 202);
+}
+
+.point3{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    width: 56px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: rgb(218, 202, 202);
+}
+
+.point4{
+    position: absolute;
+    top: 300px;
+    left: 370px;
+    width: 56px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: rgb(218, 202, 202);
+}
+.point5{
+    position: absolute;
+    top: 300px;
+    left: 440px;
+    width: 56px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: rgb(218, 202, 202);
+}
+
+.dodici{
+    left: 20px;
+    font-size: 100px;
+    color: red;
+    position: relative;
+    text-shadow:
+        1px 1px 0px black,
+        -1px 1px 0px black,
+        1px -1px 0px black,
+        -1px -1px 0px black,
+        0px 1px 0px black,
+        0px -1px 0px black,
+        1px 0px 0px black,
+        -1px 0px 0px black;
+    
+}
+
+.score-text {
+    position: absolute;
+    left: 200px;
+    top: 70px;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 10px 10px 10px;
+    font-family:'Courier New', Courier, monospace;
+   
+}
+.cinque{
+    left: 20px;
+    font-size: 100px;
+    color: red;
+    position: relative;
+    text-shadow:
+        1px 1px 0px black,
+        -1px 1px 0px black,
+        1px -1px 0px black,
+        -1px -1px 0px black,
+        0px 1px 0px black,
+        0px -1px 0px black,
+        1px 0px 0px black,
+        -1px 0px 0px black;
+}
+
+.point_score{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    font-size: large;
+   
+}
+
+.point_score1{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    font-size: large;
+   
+}
+
+.point_score2{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    font-size: large;
+   
+}
+
+.point_score3{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    font-size: large;
+   
+}
+
+.point_score4{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    font-size: large;
+   
+}
+
+.point_score5{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    font-size: large;
+   
+}
+
+.timer{
+    position: absolute;
+    top: 80px;
+    left: 200px;
+    width: 64px;
+    height: 55px;
+    border-radius: 15px;
+    border: 1px solid rgb(218, 202, 202);
+    background-color: rgb(218, 202, 202);
+}
+
+
+svg{
+    position: absolute;
+    bottom: 5px;
+    right: 1px;
+    width: 60px;
+    height: 40px;
+}
